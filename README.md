@@ -6,7 +6,7 @@
 
 I'm a MSc student in Physics of the Earth System, University of Bologna. My interests are related to the application of machine learning to atmospheric and oceanic sciences.
 
-- 🔭 I’m currently working on the study of cold-water, high-chlorophyll filaments in the South China Sea through ML algorithms for my Master thesis 
+- 🔭 For my master's thesis, I am currently working on automatic detection of cold-water filaments with high chlorophyll content in the open ocean using satellite imagery. 
 - 📫 How to reach me: federica.benassi12@studio.unibo.it or my [LinkedIn profile](https://www.linkedin.com/in/federica-benassi-3b3113238/)
 
 <!--
