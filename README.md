@@ -11,7 +11,8 @@ I'm a MSc student in [Physics of the Earth System](https://corsi.unibo.it/2cycle
 - Some projects I worked on:
     - [Analysis of COVID-19 papers](https://github.com/fedebenassi/Meta_Analysis_of_COVID_papers) through the distributed computing framework Dask
     - [Bayesian inference of COVID-19 vaccine effectiveness](https://github.com/RinaldiLuca/BayesianAnalysis_Covid19_Vaccines)
-    - [Development and analysis of numerical methods for ocean and atmospheric dynamics](https://github.com/fedebenassi/Numerical-Laboratory-of-the-Atmosphere-and-Ocean)
+    - [Meteorological analysis of Storm Vaia](https://github.com/fedebenassi/Meteorological-analysis-of-Storm-Vaia) through a combination of model output, reanalysis, and meteorological station data
+    - [Development and analysis of numerical methods](https://github.com/fedebenassi/Numerical-Laboratory-of-the-Atmosphere-and-Ocean) for ocean and atmospheric dynamics
 - 📫 How to reach me: federica.benassi12@studio.unibo.it or my [LinkedIn profile](https://www.linkedin.com/in/federica-benassi-3b3113238/)
 
 <!--
