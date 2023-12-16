@@ -3,7 +3,7 @@
 <!--
 **fedebenassi/fedebenassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a MSc student in [Physics of the Earth System](https://corsi.unibo.it/2cycle/PhysicsEarthSystem), University of Bologna. 
+I am a PhD student in "[Future Earth, Climate Change and Societal Challenges](https://phd.unibo.it/future-earth-climate-change-societal-challenges/en)" at University of Bologna. I have obtained my Master's degree in [Physics of the Earth System](https://corsi.unibo.it/2cycle/PhysicsEarthSystem) (University of Bologna).
 <!--
 
 - 👩‍💻 I'm super into data analysis, visualization and machine learning. I'm always willing to learn more about data science, and its applications on ocean and atmospheric sciences. 
