@@ -15,8 +15,7 @@ I am a PhD student in "[Future Earth, Climate Change and Societal Challenges](ht
     - [Development and analysis of numerical methods](https://github.com/fedebenassi/Numerical-Laboratory-of-the-Atmosphere-and-Ocean) for ocean and atmospheric dynamics
 -->
 
-- 📫 How to reach me: federica.benassi12@studio.unibo.it or my [LinkedIn profile](https://www.linkedin.com/in/federica-benassi-3b3113238/)
-
+- 📫 How to reach me: federica.benassi13@unibo.it
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
